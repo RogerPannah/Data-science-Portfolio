@@ -4,10 +4,10 @@
  
 The University of Texas at Austin
 Postgraduate Degree in Data Science and Business Analytics
-January – September 2024
+
 
 University of Education, Winneba, Ghana
-Bachelor of Science in Computer Science, 2005-2009
+Bachelor of Science in Computer Science
 
 
 ### TECHNICAL SKILLS
@@ -29,40 +29,26 @@ Effective communication and stress management.
 
 
 
-### WORK EXPERIENCE
-EUREKA RESOURCES, BUSINESS ANALYST
- (Python/ SQL/Microsoft Excel)
 
-•	Developed and optimized a company-wide retention program using Python and SQL, reducing labor costs by 92 hours monthly and improving profitability by 9%.
+### PROJECTS 
+-- I used Python language to showed cased my skills to find pattern to helped my company made business-driven decision.
 
-•	Utilized predictive analytics to forecast and reduce repair costs of water purification machinery.
+-- I used Hypothesis testing by utilizing P-Value and Level of Significant to helped E-News company to have statitistical insight.
 
-•	Automated treatment processes for contaminated water, enhancing system reliability and efficiency.
+-- I also  used Python to create plots,heatmaps,boxplot, plotly and many more to show visualization of trends, patterns and anomalies.
 
-•	Created and maintained critical daily and monthly reports for strategic decision-making by senior management
-
-TD Bank, Business Analytics
-  (Python/Tableau/MYSQL/ETL)
- April 2022- Oct 2022
-
-•	Engineered and maintained Tableau dashboards with advanced interactive features, improving data accessibility and user security.
-
-•	Authored SQL stored procedures and views to automate ETL processes and optimize application performance.
-
-•	Implemented rigorous security protocols to prevent SQL injection and ensure data integrity.
-
-•	Lead development activities from gathering requirements and designing solutions, through developing code/reports, to testing and release/deployment.
+-- I used MySql to clean the data and did Exploratory Data Analysis using MySQL.
 
 
-Key Bank, Cleveland, OH
-Business Analyst / Data Analyst  
-May 2019 - April 2022                        
 
-•	Spearheaded the adoption of a centralized data management tool, improving data accuracy and accessibility across departments.
+### Certifications and Courses
 
-•	Developed dynamic Tableau dashboards and automated processes for standardized reporting. Enhancing operational efficiency and data-driven decision-making.
+I completed The University of Texas at Austin
+Postgraduate Degree in Data Science and Business Analytics
+- Data modeling and Exploratory Data Analysis using Python
+- Using Hypothesis testing to make Business decisions
+- Machine Learning
 
-•	Led security administration and system maintenance for a multi-environment Tableau infrastructure, ensuring compliance and data integrity.
 
 
 
