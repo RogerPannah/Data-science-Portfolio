@@ -12,7 +12,7 @@ Bachelor of Science in Computer Science, 2005-2009
 
 ### TECHNICAL SKILLS
  
-### Programming Languages: Python, SQL
+### Programming Languages: Python, SQL,R
 
 ### Data Analysis Tools: Tableau, Alteryx, Power BI
 
@@ -46,15 +46,21 @@ TD Bank, Business Analytics
  April 2022- Oct 2022
 
 •	Engineered and maintained Tableau dashboards with advanced interactive features, improving data accessibility and user security.
+
 •	Authored SQL stored procedures and views to automate ETL processes and optimize application performance.
+
 •	Implemented rigorous security protocols to prevent SQL injection and ensure data integrity.
+
 •	Lead development activities from gathering requirements and designing solutions, through developing code/reports, to testing and release/deployment.
 
 
 Key Bank, Cleveland, OH
 Business Analyst / Data Analyst  
 May 2019 - April 2022                        
+
 •	Spearheaded the adoption of a centralized data management tool, improving data accuracy and accessibility across departments.
+
 •	Developed dynamic Tableau dashboards and automated processes for standardized reporting. Enhancing operational efficiency and data-driven decision-making.
+
 •	Led security administration and system maintenance for a multi-environment Tableau infrastructure, ensuring compliance and data integrity.
 
