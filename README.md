@@ -64,5 +64,5 @@ May 2019 - April 2022
 
 •	Led security administration and system maintenance for a multi-environment Tableau infrastructure, ensuring compliance and data integrity.
 
-### PORTFOLIO
+
 
