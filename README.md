@@ -1,4 +1,4 @@
-# Data Scientist/ Business analytics
+# Data Science/ Business analytics
 
 ### EDUCATION
  
