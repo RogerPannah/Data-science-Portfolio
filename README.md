@@ -34,8 +34,11 @@ EUREKA RESOURCES, BUSINESS ANALYST
  (Python/ SQL/Microsoft Excel)
 
 •	Developed and optimized a company-wide retention program using Python and SQL, reducing labor costs by 92 hours monthly and improving profitability by 9%.
+
 •	Utilized predictive analytics to forecast and reduce repair costs of water purification machinery.
+
 •	Automated treatment processes for contaminated water, enhancing system reliability and efficiency.
+
 •	Created and maintained critical daily and monthly reports for strategic decision-making by senior management
 
 TD Bank, Business Analytics
