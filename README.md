@@ -58,7 +58,7 @@ Outcomes:
 The analysis provided actionable insights, such as optimizing weekday delivery schedules and promoting highly-rated restaurants. These recommendations aim to improve customer satisfaction, drive revenue, and strengthen FoodHub’s market position.
 
 
-[PROJECT 2 :Project: E-News Express Data Analysis](https://github.com/RogerPannah/Data-science-Portfolio/blob/main/E_News_Express_project.ipynb)
+[**PROJECT 2** :Project: E-News Express Data Analysis](https://github.com/RogerPannah/Data-science-Portfolio/blob/main/E_News_Express_project.ipynb)
 
 Introduction
 
