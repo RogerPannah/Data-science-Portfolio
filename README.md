@@ -31,7 +31,7 @@ Effective communication and stress management.
 
 
 ### PROJECTS 
-**PROJECT 1**
+[**PROJECT 1** DATA SCIENCE : FOODHUB](https://github.com/RogerPannah/Data-science-Portfolio/blob/main/Python_Project_Foodhub.ipynb)
 
 This project explores customer order data from FoodHub, a food delivery app connecting customers with restaurants in New York City. Using Python for data analysis and visualization, the project answers key business questions to enhance customer experience and optimize operations for the company.
 
