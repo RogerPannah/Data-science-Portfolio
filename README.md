@@ -36,10 +36,9 @@ Effective communication and stress management.
 This project explores customer order data from FoodHub, a food delivery app connecting customers with restaurants in New York City. Using Python for data analysis and visualization, the project answers key business questions to enhance customer experience and optimize operations for the company.
 
 Key Objectives:
-
-    Analyze customer demand across restaurants and cuisines.
-    Examine delivery efficiency and identify areas for improvement.
-    Provide data-driven insights to enhance operational workflows.
+* Analyze customer demand across restaurants and cuisines.
+* Examine delivery efficiency and identify areas for improvement.
+* Provide data-driven insights to enhance operational workflows.
 
 Highlights:
 
