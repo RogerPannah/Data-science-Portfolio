@@ -42,16 +42,16 @@ Key Objectives:
 
 Highlights:
 
-    Conducted exploratory data analysis (EDA) to uncover trends in cuisine preferences, customer ratings, and order costs.
-    Determined that American cuisine is the most popular, while Mediterranean cuisine is the most expensive.
-    Found that weekend delivery times are faster compared to weekdays.
-    Identified top-performing restaurants based on customer ratings and frequency of orders.
-    Evaluated customer satisfaction metrics and recommended improvements for delivery efficiency and feedback collection.
+* Conducted exploratory data analysis (EDA) to uncover trends in cuisine preferences, customer ratings, and order costs.
+* Determined that American cuisine is the most popular, while Mediterranean cuisine is the most expensive.
+* Found that weekend delivery times are faster compared to weekdays.
+* Identified top-performing restaurants based on customer ratings and frequency of orders.
+* Evaluated customer satisfaction metrics and recommended improvements for delivery efficiency and feedback collection.
 
 Tools and Techniques:
 
-    Libraries: Pandas, NumPy, Matplotlib, Seaborn.
-    Skills: Data cleaning, statistical analysis, and visualization.
+* Libraries: Pandas, NumPy, Matplotlib, Seaborn.
+* Skills: Data cleaning, statistical analysis, and visualization.
 
 Outcomes:
 The analysis provided actionable insights, such as optimizing weekday delivery schedules and promoting highly-rated restaurants. These recommendations aim to improve customer satisfaction, drive revenue, and strengthen FoodHub’s market position.
@@ -64,20 +64,19 @@ Introduction
 This project analyzes user interaction data from E-News Express, an online news platform. By leveraging business statistics and exploratory data analysis (EDA), the goal is to uncover insights about user behavior, evaluate the performance of control and treatment groups, and provide actionable recommendations to enhance user engagement and conversion rates.
 
 Summary of Key Points
+* Problem Statement: Analyze the effectiveness of a new landing page (treatment group) compared to the current page (control group) in improving user engagement and conversions.
 
-    Problem Statement: Analyze the effectiveness of a new landing page (treatment group) compared to the current page (control group) in improving user engagement and conversions.
+Tools Used:
+* Data Manipulation: Python (Pandas, NumPy)
+* Data Visualization: Matplotlib, Seaborn
 
-    Tools Used:
-        Data Manipulation: Python (Pandas, NumPy)
-        Data Visualization: Matplotlib, Seaborn
-
-    Objectives and Outcomes:
-        Objective: Determine if the new landing page increases time spent on the page and conversions.
-        Outcome: The treatment group showed higher time spent on the page and improved conversions compared to the control group, validating the effectiveness of the new landing page.
-        Objective: Explore trends and patterns based on user preferences (e.g., language and group behavior).
-        Outcome: Identified English-speaking users as the most engaged, with language preference impacting conversion rates.
-        Objective: Assess and validate statistical significance between control and treatment groups.
-        Outcome: Statistical tests confirmed that the differences in engagement and conversions between the groups were significant.
+Objectives and Outcomes:
+* Objective: Determine if the new landing page increases time spent on the page and conversions.
+* Outcome: The treatment group showed higher time spent on the page and improved conversions compared to the control group, validating the effectiveness of the new landing page.
+* Objective: Explore trends and patterns based on user preferences (e.g., language and group behavior).
+* Outcome: Identified English-speaking users as the most engaged, with language preference impacting conversion rates.
+* Objective: Assess and validate statistical significance between control and treatment groups.
+* Outcome: Statistical tests confirmed that the differences in engagement and conversions between the groups were significant.
         
 ![](https://raw.githubusercontent.com/RogerPannah/Data-science-Portfolio/775e513109cb13202571d76197a81d32e16f4876/images/time%20spent%20on%20old%20and%20new%20landing%20oage.png)
 ![](https://raw.githubusercontent.com/RogerPannah/Data-science-Portfolio/775e513109cb13202571d76197a81d32e16f4876/images/proportion%20of%20students%20who%20visited%20the%20landing%20page.png)
