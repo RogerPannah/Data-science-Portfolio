@@ -50,8 +50,8 @@ Highlights:
     Evaluated customer satisfaction metrics and recommended improvements for delivery efficiency and feedback collection.
 
 Tools and Techniques:
-Libraries: Pandas, NumPy, Matplotlib, Seaborn.
-Skills: Data cleaning, statistical analysis, and visualization.
+    Libraries: Pandas, NumPy, Matplotlib, Seaborn.
+    Skills: Data cleaning, statistical analysis, and visualization.
 
 Outcomes:
 The analysis provided actionable insights, such as optimizing weekday delivery schedules and promoting highly-rated restaurants. These recommendations aim to improve customer satisfaction, drive revenue, and strengthen FoodHub’s market position.
