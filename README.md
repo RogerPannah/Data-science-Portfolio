@@ -82,7 +82,6 @@ Objectives and Outcomes:
 * Objective: Assess and validate statistical significance between control and treatment groups.
 * Outcome: Statistical tests confirmed that the differences in engagement and conversions between the groups were significant.
         
-![](https://raw.githubusercontent.com/RogerPannah/Data-science-Portfolio/775e513109cb13202571d76197a81d32e16f4876/images/time%20spent%20on%20old%20and%20new%20landing%20oage.png)
 ![](https://raw.githubusercontent.com/RogerPannah/Data-science-Portfolio/775e513109cb13202571d76197a81d32e16f4876/images/convention%20and%20preferred%20language.png)
 ![](https://raw.githubusercontent.com/RogerPannah/Data-science-Portfolio/775e513109cb13202571d76197a81d32e16f4876/images/time%20spent%20and%20language%20preferred.png)
 
