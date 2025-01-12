@@ -65,7 +65,6 @@ The analysis provided actionable insights, such as optimizing weekday delivery s
 [**PROJECT 2** :Project: E-News Express Data Analysis](https://github.com/RogerPannah/Data-science-Portfolio/blob/main/E_News_Express_project.ipynb)
 
 Introduction
-
 This project analyzes user interaction data from E-News Express, an online news platform. By leveraging business statistics and exploratory data analysis (EDA), the goal is to uncover insights about user behavior, evaluate the performance of control and treatment groups, and provide actionable recommendations to enhance user engagement and conversion rates.
 
 Summary of Key Points
@@ -86,6 +85,31 @@ Objectives and Outcomes:
 ![](https://raw.githubusercontent.com/RogerPannah/Data-science-Portfolio/775e513109cb13202571d76197a81d32e16f4876/images/time%20spent%20on%20old%20and%20new%20landing%20oage.png)
 ![](https://raw.githubusercontent.com/RogerPannah/Data-science-Portfolio/775e513109cb13202571d76197a81d32e16f4876/images/convention%20and%20preferred%20language.png)
 ![](https://raw.githubusercontent.com/RogerPannah/Data-science-Portfolio/775e513109cb13202571d76197a81d32e16f4876/images/time%20spent%20and%20language%20preferred.png)
+
+**PROJECT**
+
+This project focuses on analyzing the quality and effectiveness of a pharmaceutical vaccine batch. The Medicon team clinically tested five batches of their COVID-19 vaccine, with the sixth batch undergoing quality assurance testing. The study evaluates the following:
+
+Objectives:
+* Quality Analysis: Evaluate the probability distribution of satisfactory and unsatisfactory doses for small samples.
+* City Supply Assurance: Predict the likelihood of satisfactory doses in a batch provided to healthcare workers.
+* Time of Effect Analysis: Analyze the distribution of the vaccine's effect duration using real-world sample data.
+
+Key Features:
+* Probability-based modeling of vaccine effectiveness.
+* Statistical distribution visualizations and analysis.
+* Calculation of probabilities for specific dose quality scenarios.
+* Percentile and effectiveness analysis for time-based data.
+
+Tools and Technologies:
+* Python: Pandas, NumPy, Matplotlib, Seaborn, SciPy.
+* Statistics: Inferential statistics for probability distributions.
+* Data Analysis: Real-world datasets for effectiveness time evaluation.
+
+Skills:
+Data analysis, statistical modeling, Python programming, and visualization expertise.
+![](https://github.com/user-attachments/assets/2252f335-f0e0-48bb-a0fe-780cf1417212)
+
 
 ### Certifications and Courses
 
