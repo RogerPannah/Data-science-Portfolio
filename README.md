@@ -85,7 +85,7 @@ Objectives and Outcomes:
 ![](https://raw.githubusercontent.com/RogerPannah/Data-science-Portfolio/775e513109cb13202571d76197a81d32e16f4876/images/convention%20and%20preferred%20language.png)
 ![](https://raw.githubusercontent.com/RogerPannah/Data-science-Portfolio/775e513109cb13202571d76197a81d32e16f4876/images/time%20spent%20and%20language%20preferred.png)
 
-[**PROJECT**:Medicon Case Study:statistics](https://github.com/RogerPannah/Data-science-Portfolio/blob/main/Copy_of_Inferential_Statistics_Medicon_Project.ipynb)
+[**PROJECT** 3:Medicon Case Study:statistics](https://github.com/RogerPannah/Data-science-Portfolio/blob/main/Copy_of_Inferential_Statistics_Medicon_Project.ipynb)
 
 This project focuses on analyzing the quality and effectiveness of a pharmaceutical vaccine batch. The Medicon team clinically tested five batches of their COVID-19 vaccine, with the sixth batch undergoing quality assurance testing. The study evaluates the following:
 
