@@ -52,7 +52,7 @@ Data-Driven Business Analyst skilled in Python, SQL, Tableau, and Power BI. I sp
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-**Phone number**: 5704945955
+###**Phone number**: 5704945955
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rogerpannah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
