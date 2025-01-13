@@ -168,5 +168,7 @@ Postgraduate Degree in Data Science and Business Analytics
 - Machine Learning
 
 [LinkIn](http://www.linkedin.com/in/roger-pannah-6bb71022a)
+Email: pannahroger@gmail.com
+Phone number: 5704945955
 
 
