@@ -138,6 +138,7 @@ Key Skills Applied:
 Outcomes: This analysis provides a comprehensive statistical validation of performance claims and helps stakeholders make data-driven decisions. It showcases proficiency in business statistics, hypothesis testing, and data storytelling.
 
 Usage: Insights from the study can be used to enhance the institute's marketing strategies, refine preparatory programs, and assure stakeholders of the program's quality.
+
 ![image](https://github.com/user-attachments/assets/fe4abef2-b4e0-4ab7-8a7c-3189f1fbb4ce)
 
 
