@@ -109,6 +109,37 @@ Skills:
 Data analysis, statistical modeling, Python programming, and visualization expertise.
 ![](https://github.com/user-attachments/assets/2252f335-f0e0-48bb-a0fe-780cf1417212)
 
+[**PROJECT**:4:Talent Hunt Examination Case Study](https://github.com/RogerPannah/Data-science-Portfolio/blob/main/Talent_Hunt_Examination_Case_Study_Estimation_and_Hypothesis_Testing.ipynb)
+
+Talent Hunt Examination Case Study
+
+This project investigates the performance metrics from a Talent Hunt Examination dataset, evaluating claims and providing statistical insights. The analysis includes confidence interval estimation and hypothesis testing to verify score distributions across subjects.
+
+Key Objectives:
+* Construct 95% confidence intervals for average scores in Computer Science, Chemistry, Mathematics, and Physics.
+* Test a critic’s claim that average scores in Physics and Mathematics are below a cutoff of 82 using one-tailed Z-tests.
+* Validate an investor’s claim that Chemistry and Computer Science scores exceed a cutoff of 85 using one-tailed Z-tests.
+
+Statistical Insights:
+Z-test statistics and p-values:
+* Physics: Z = -2.35, p = 0.0094 (Reject null hypothesis; average score < 82).
+* Mathematics: Z = -3.45, p = 0.0003 (Reject null hypothesis; average score < 82).
+* Chemistry: Z = 2.11, p = 0.0174 (Fail to reject null hypothesis; average score ≥ 85).
+* Computer Science: Z = 2.87, p = 0.0021 (Reject null hypothesis; average score > 85).
+* These results validate the critic’s claim for Physics and Mathematics and partially support the investor’s claims for Chemistry and Computer Science.
+
+Key Skills Applied:
+* Statistical Analysis: Confidence intervals, Z-tests, and p-value interpretation.
+* Data Visualization: Representing distributions and results using Python libraries like Matplotlib and Seaborn.
+* Data Wrangling: Preparing, cleaning, and processing data with pandas and NumPy.
+* Hypothesis Testing: Formulating and testing null and alternative hypotheses using rigorous statistical methods.
+* Programming: Utilizing Python for automated data analysis and reproducibility.
+
+Outcomes: This analysis provides a comprehensive statistical validation of performance claims and helps stakeholders make data-driven decisions. It showcases proficiency in business statistics, hypothesis testing, and data storytelling.
+
+Usage: Insights from the study can be used to enhance the institute's marketing strategies, refine preparatory programs, and assure stakeholders of the program's quality.
+![image](https://github.com/user-attachments/assets/fe4abef2-b4e0-4ab7-8a7c-3189f1fbb4ce)
+
 
 ### Certifications and Courses
 
