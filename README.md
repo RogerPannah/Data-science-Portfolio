@@ -167,6 +167,6 @@ Postgraduate Degree in Data Science and Business Analytics
 - Using Hypothesis testing to make Business decisions
 - Machine Learning
 
-[LinkIn](www.linkedin.com/in/roger-pannah-6bb71022a)
+[LinkIn](http://www.linkedin.com/in/roger-pannah-6bb71022a)
 
 
