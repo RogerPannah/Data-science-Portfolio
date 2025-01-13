@@ -217,11 +217,12 @@ Bachelor of Science in Computer Science
 ### Certifications and Courses
 
 I completed The University of Texas at Austin  
-Postgraduate Degree in Data Science and Business Analytics    
+Postgraduate Degree in Data Science and Business Analytics
 
 - Data modeling and Exploratory Data Analysis using Python
 - Using Hypothesis testing to make Business decisions
 - Machine Learning
 
+[McCombs School of Business](https://Vrfy.digital/qwxmwdju)
 
 
