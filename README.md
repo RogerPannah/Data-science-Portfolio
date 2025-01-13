@@ -16,7 +16,7 @@ Bachelor of Science in Computer Science
 
 ### Data Analysis Tools: Tableau, Alteryx, Power BI
 
-### Database Management: Microsoft SQL Server, Amazon Aurora, MySQL
+### Database Management: Microsoft SQL Server, Amazon Aurora, MySQL,AWS
 
 ### Business Analysis: Business Statistics, Hypothesis Testing
 
@@ -41,7 +41,6 @@ Key Objectives:
 * Provide data-driven insights to enhance operational workflows.
 
 Highlights:
-
 * Conducted exploratory data analysis (EDA) to uncover trends in cuisine preferences, customer ratings, and order costs.
 * Determined that American cuisine is the most popular, while Mediterranean cuisine is the most expensive.
 * Found that weekend delivery times are faster compared to weekdays.
@@ -49,7 +48,6 @@ Highlights:
 * Evaluated customer satisfaction metrics and recommended improvements for delivery efficiency and feedback collection.
 
 Tools and Techniques:
-
 * Libraries: Pandas, NumPy, Matplotlib, Seaborn.
 * Skills: Data cleaning, statistical analysis, and visualization.
 
