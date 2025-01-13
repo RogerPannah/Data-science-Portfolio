@@ -21,16 +21,6 @@ Data-Driven Business Analyst skilled in Python, SQL, Tableau, and Power BI. I sp
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Data Science/ Business analytics
 
-### EDUCATION
- 
-The University of Texas at Austin
-Postgraduate Degree in Data Science and Business Analytics
-
-
-University of Education, Winneba, Ghana
-Bachelor of Science in Computer Science
-
-
 ### TECHNICAL SKILLS
  
 ### Programming Languages: Python, SQL,R
@@ -160,6 +150,13 @@ Usage: Insights from the study can be used to enhance the institute's marketing 
 
 ![image](https://github.com/user-attachments/assets/fe4abef2-b4e0-4ab7-8a7c-3189f1fbb4ce)
 
+### EDUCATION
+ 
+The University of Texas at Austin
+Postgraduate Degree in Data Science and Business Analytics
+
+University of Education, Winneba, Ghana
+Bachelor of Science in Computer Science
 
 ### Certifications and Courses
 
